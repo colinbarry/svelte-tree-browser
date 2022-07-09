@@ -17,7 +17,10 @@
           name: 'second file'
           }]
       }, {
-        name: 'bravo'
+          name: 'bravo',
+          files: [{
+            name: 'child file'
+          }]
       },
       {
         name: 'charlie',
